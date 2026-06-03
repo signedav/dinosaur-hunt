@@ -1,5 +1,6 @@
 # Thema Planeten
 
-- odyssey
-- odyssey blätter
-- fact-cards
+- [x] Factsheets + Karte
+- [ ] Odyssey Blätter
+- [x] Odyssey Plan
+- [ ] Drucken

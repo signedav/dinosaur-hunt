@@ -64,20 +64,20 @@ Material: Eis und Gestein
 - Früher dachte man, er sei der neunte Planet, aber vor 20 Jahren haben Astronomen entschieden, dass er dafür einfach viel zu klein ist. Es ist ein Zwergplanet
 - Auf Pluto ist es so eisig kalt (bis zu minus 230 Grad), dass sogar die Luft, die wir zum Atmen brauchen, als Schnee auf den Boden frieren würde.
 
-# Prints
+# Karten
 
 +------------------------------------------+
-|  [   ]  * 🚀 PLANET - EXPERT *   [   ]   |
-|  [   ]        Fachgebiet #01   [   ]   |
+|  [ 🚀 ]  * PLANETARIAN-EXPERT *   [ 🚀 ] |
+|          Fachgebiet #01: MERKUR          |
 +------------------------------------------+
 |                                          |
 |                   .---.                  |
 |                  (  o  )                 |
 |                   '---'                  |
-|          *DER SCHNELLE RENNWAGEN* |
+|              *DER RENNWAGEN*             |
 |                                          |
 |  > DATENBLATT:                           |
-|  • Grösse: 4'880 km Durchmesser          |
+|  • Grösse: 4880 km Durchmesser           |
 |  • Material: Gestein & Eisenkern         |
 |                                          |
 |  > ENTDECKER-FACTS:                      |
@@ -88,21 +88,21 @@ Material: Eis und Gestein
 |    um die Sonne. Er flitzt superschnell! |
 |                                          |
 +------------------------------------------+
-| ENTDECKER-STATUS: [X] REKORDZEIT GEWETZED|
+| ENTDECKER-STATUS: [X] REKORDZEIT GETRACKT|
 +------------------------------------------+
 
 +------------------------------------------+
-|  [     ]  🚀 PLANET - EXPERT  [     ]   |
-|  [  O  ]  Fachgebiet #02: VENUS     [  O  ]   |
+|  [ 🚀 ]  * PLANETARIAN-EXPERT *   [ 🚀 ] |
+|          Fachgebiet #02: VENUS           |
 +------------------------------------------+
 |                                          |
 |                   .---.                  |
 |                  (  #  )                 |
 |                   '---'                  |
-|               *DER ABENDSTERN* |
+|             *DER ABENDSTERN*             |
 |                                          |
 |  > DATENBLATT:                           |
-|  • Grösse: 12'100 km Durchmesser         |
+|  • Grösse: 12100 km Durchmesser          |
 |  • Material: Gestein, Lava & Giftluft    |
 |                                          |
 |  > ENTDECKER-FACTS:                      |
@@ -118,17 +118,17 @@ Material: Eis und Gestein
 +------------------------------------------+
 
 +------------------------------------------+
-|  [     ]  🚀 PLANET - EXPERT  [     ]   |
-|  [  O  ]  Fachgebiet #03: ERDE      [  O  ]   |
+|  [ 🚀 ]  * PLANETARIAN-EXPERT *   [ 🚀 ] |
+|          Fachgebiet #03: ERDE            |
 +------------------------------------------+
 |                                          |
 |                   .---.                  |
 |                  ( O = )                 |
 |                   '---'                  |
-|             *UNSERE HEIMAT* |
+|              *UNSERE HEIMAT*             |
 |                                          |
 |  > DATENBLATT:                           |
-|  • Grösse: 12'740 km Durchmesser         |
+|  • Grösse: 12740 km Durchmesser          |
 |  • Material: Gestein, Metall & Wasser    |
 |                                          |
 |  > ENTDECKER-FACTS:                      |
@@ -143,17 +143,17 @@ Material: Eis und Gestein
 +------------------------------------------+
 
 +------------------------------------------+
-|  [     ]  🚀 PLANET - EXPERT  [     ]   |
-|  [  O  ]  Fachgebiet #04: MARS      [  O  ]   |
+|  [ 🚀 ]  * PLANETARIAN-EXPERT *   [ 🚀 ] |
+|          Fachgebiet #04: MARS            |
 +------------------------------------------+
 |                                          |
 |                   .---.                  |
 |                  (  X  )                 |
 |                   '---'                  |
-|             *DER ROTE PLANET* |
+|             *DER ROTE PLANET*            |
 |                                          |
 |  > DATENBLATT:                           |
-|  • Grösse: 6'780 km Durchmesser          |
+|  • Grösse: 6780 km Durchmesser           |
 |  • Material: Rotes Gestein & Eisenstaub  |
 |                                          |
 |  > ENTDECKER-FACTS:                      |
@@ -169,17 +169,17 @@ Material: Eis und Gestein
 +------------------------------------------+
 
 +------------------------------------------+
-|  [     ]  🚀 PLANET - EXPERT  [     ]   |
-|  [  O  ]  Fachgebiet #05: JUPITER   [  O  ]   |
+|  [ 🚀 ]  * PLANETARIAN-EXPERT *   [ 🚀 ] |
+|          Fachgebiet #05: JUPITER         |
 +------------------------------------------+
 |                                          |
 |                   .---.                  |
 |                  ( =O= )                 |
 |                   '---'                  |
-|              *DER MOND-KÖNIG* |
+|              *DER MOND-KÖNIG*            |
 |                                          |
 |  > DATENBLATT:                           |
-|  • Grösse: 143'000 km Durchmesser        |
+|  • Grösse: 143000 km Durchmesser         |
 |  • Material: Gas (Wasserstoff & Helium)  |
 |                                          |
 |  > ENTDECKER-FACTS:                      |
@@ -194,8 +194,8 @@ Material: Eis und Gestein
 +------------------------------------------+
 
 +------------------------------------------+
-|  [     ]  🚀 PLANET - EXPERT  [     ]   |
-|  [  O  ]  Fachgebiet #06: SATURN    [  O  ]   |
+|  [ 🚀 ]  * PLANETARIAN-EXPERT *   [ 🚀 ] |
+|          Fachgebiet #06: SATURN          |
 +------------------------------------------+
 |                                          |
 |                 _.._                     |
@@ -203,10 +203,10 @@ Material: Eis und Gestein
 |              ====(= O =)====             |
 |               '. '.-' .'                 |
 |                 ```                      |
-|             *DER SCHWIMM-RIESIE* |
+|           *DER SCHWIMM-RIESE*            |
 |                                          |
 |  > DATENBLATT:                           |
-|  • Grösse: 120'500 km Durchmesser        |
+|  • Grösse: 120500 km Durchmesser         |
 |  • Material: Gas & flüssiger Wasserstoff |
 |                                          |
 |  > ENTDECKER-FACTS:                      |
@@ -223,17 +223,17 @@ Material: Eis und Gestein
 
 
 +------------------------------------------+
-|  [     ]  🚀 PLANET - EXPERT  [     ]   |
-|  [  O  ]  Fachgebiet #07: URANUS    [  O  ]   |
+|  [ 🚀 ]  * PLANETARIAN-EXPERT *   [ 🚀 ] |
+|          Fachgebiet #07: URANUS          |
 +------------------------------------------+
 |                                          |
 |                   .---.                  |
 |                  (  \  )                 |
 |                   '---'                  |
-|             *DER KUGELBLITZ* |
+|             *DER KUGELBLITZ*             |
 |                                          |
 |  > DATENBLATT:                           |
-|  • Grösse: 51'100 km Durchmesser         |
+|  • Grösse: 51100 km Durchmesser          |
 |  • Material: Eis, Gas und Gestein        |
 |                                          |
 |  > ENTDECKER-FACTS:                      |
@@ -241,25 +241,25 @@ Material: Eis und Gestein
 |    Grad gekippt). Er "kugelt" wie ein    |
 |    Spielball um die Sonne!               |
 |  • An den Polen herrscht 21 Jahre lang   |
-|    Dauersommer und Tag, danach 21        |
-|    Jahre Winter und Nacht.               |
+|    Sommer und Tag, danach 21 Jahre       |
+|    Winter und Nacht.                     |
 |                                          |
 +------------------------------------------+
 |  ENTDECKER-STATUS: [X] SCHIEFLAGE GEPRÜFT|
 +------------------------------------------+
 
 +------------------------------------------+
-|  [     ]  🚀 PLANET - EXPERT  [     ]   |
-|  [  O  ]  Fachgebiet #08: NEPTUN    [  O  ]   |
+|  [ 🚀 ]  * PLANETARIAN-EXPERT *   [ 🚀 ] |
+|          Fachgebiet #08: NEPTUN          |
 +------------------------------------------+
 |                                          |
 |                   .---.                  |
 |                  (  ~  )                 |
 |                   '---'                  |
-|              *DER STURM-KÖNIG* |
+|              *DER STURM-KÖNIG*           |
 |                                          |
 |  > DATENBLATT:                           |
-|  • Grösse: 49'200 km Durchmesser         |
+|  • Grösse: 49200 km Durchmesser          |
 |  • Material: Eis und Gas                 |
 |                                          |
 |  > ENTDECKER-FACTS:                      |
@@ -267,25 +267,25 @@ Material: Eis und Gestein
 |    Meeresgott Neptun, weil die Farbe an  |
 |    das tiefe Meer erinnert.              |
 |  • Wildeste und schnellste Winde (über   |
-|    2'000 km/h) – viermal schneller als   |
+|    2000 km/h) – viermal schneller als    |
 |    die schlimmsten Stürme der Erde!      |
 |                                          |
 +------------------------------------------+
-|  ENTDECKER-STATUS: [X] WINDMESSUNG REIF  |
+|  ENTDECKER-STATUS: [X] WINDMESSUNG GUT   |
 +------------------------------------------+
 
 +------------------------------------------+
-|  [     ]  🚀 PLANET - EXPERT  [     ]   |
-|  [  O  ]  Fachgebiet #09: PLUTO     [  O  ]   |
+|  [ 🚀 ]  * PLANETARIAN-EXPERT *   [ 🚀 ] |
+|          Fachgebiet #09: PLUTO           |
 +------------------------------------------+
 |                                          |
 |                   .---.                  |
 |                  (  .  )                 |
 |                   '---'                  |
-|             *DER ZWERGPLANET* |
+|             *DER ZWERGPLANET*            |
 |                                          |
 |  > DATENBLATT:                           |
-|  • Grösse: 2'370 km Durchmesser          |
+|  • Grösse: 2370 km Durchmesser           |
 |  • Material: Eis und Gestein             |
 |                                          |
 |  > ENTDECKER-FACTS:                      |
@@ -294,9 +294,9 @@ Material: Eis und Gestein
 |    klein! Jetzt ist er ein Zwergplanet.  |
 |  • Eisig kalt (bis minus 230 Grad):      |
 |    Die Luft zum Atmen würde als Schnee   |
-|    auf den Boden frieren!                |
+|    auf den Boden gefrieren!              |
 |                                          |
 +------------------------------------------+
-|  ENTDECKER-STATUS: [X] MISSION BEENDET   |
+|  ENTDECKER-STATUS: [X] ENDE ERREICHT     |
 +------------------------------------------+
 
