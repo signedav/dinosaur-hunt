@@ -1,6 +1,6 @@
 # Thema Planeten
 
 - [x] Factsheets + Karte
-- [ ] Odyssey Blätter
+- [x] Odyssey Blätter
 - [x] Odyssey Plan
-- [ ] Drucken
+- [x] Drucken Blätter und LILY'S Space Birthday (Karten)

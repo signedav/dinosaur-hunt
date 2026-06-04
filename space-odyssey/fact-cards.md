@@ -71,10 +71,12 @@ Material: Eis und Gestein
 |          Fachgebiet #01: MERKUR          |
 +------------------------------------------+
 |                                          |
+|                                          |
 |                   .---.                  |
 |                  (  o  )                 |
 |                   '---'                  |
 |              *DER RENNWAGEN*             |
+|                                          |
 |                                          |
 |  > DATENBLATT:                           |
 |  • Grösse: 4880 km Durchmesser           |
@@ -87,19 +89,26 @@ Material: Eis und Gestein
 |    braucht nur 88 Tage für eine Runde    |
 |    um die Sonne. Er flitzt superschnell! |
 |                                          |
+|                                          |
 +------------------------------------------+
 | ENTDECKER-STATUS: [X] REKORDZEIT GETRACKT|
 +------------------------------------------+
+
+
+
+
 
 +------------------------------------------+
 |  [ 🚀 ]  * PLANETARIAN-EXPERT *   [ 🚀 ] |
 |          Fachgebiet #02: VENUS           |
 +------------------------------------------+
 |                                          |
+|                                          |
 |                   .---.                  |
 |                  (  #  )                 |
 |                   '---'                  |
 |             *DER ABENDSTERN*             |
+|                                          |
 |                                          |
 |  > DATENBLATT:                           |
 |  • Grösse: 12100 km Durchmesser          |
@@ -113,19 +122,26 @@ Material: Eis und Gestein
 |  • Leuchtet morgens und abends so hell   |
 |    wie ein wunderschöner Stern.          |
 |                                          |
+|                                          |
 +------------------------------------------+
 |  ENTDECKER-STATUS: [X] HITZE-TEST BEREIT |
 +------------------------------------------+
+
+
+
+
 
 +------------------------------------------+
 |  [ 🚀 ]  * PLANETARIAN-EXPERT *   [ 🚀 ] |
 |          Fachgebiet #03: ERDE            |
 +------------------------------------------+
 |                                          |
+|                                          |
 |                   .---.                  |
 |                  ( O = )                 |
 |                   '---'                  |
 |              *UNSERE HEIMAT*             |
+|                                          |
 |                                          |
 |  > DATENBLATT:                           |
 |  • Grösse: 12740 km Durchmesser          |
@@ -138,19 +154,26 @@ Material: Eis und Gestein
 |  • Einziger bekannter Planet mit Wasser, |
 |    Pflanzen, Tieren und Menschen.        |
 |                                          |
+|                                          |
 +------------------------------------------+
 |  ENTDECKER-STATUS: [X] BASIS GEFUNDEN    |
 +------------------------------------------+
+
+
+
+
 
 +------------------------------------------+
 |  [ 🚀 ]  * PLANETARIAN-EXPERT *   [ 🚀 ] |
 |          Fachgebiet #04: MARS            |
 +------------------------------------------+
 |                                          |
+|                                          |
 |                   .---.                  |
 |                  (  X  )                 |
 |                   '---'                  |
 |             *DER ROTE PLANET*            |
+|                                          |
 |                                          |
 |  > DATENBLATT:                           |
 |  • Grösse: 6780 km Durchmesser           |
@@ -164,19 +187,26 @@ Material: Eis und Gestein
 |    und Seen. Vielleicht gab es sogar     |
 |    winzige Mars-Lebewesen!               |
 |                                          |
+|                                          |
 +------------------------------------------+
 |  ENTDECKER-STATUS: [X] ROSTPROBE IM SACK |
 +------------------------------------------+
+
+
+
+
 
 +------------------------------------------+
 |  [ 🚀 ]  * PLANETARIAN-EXPERT *   [ 🚀 ] |
 |          Fachgebiet #05: JUPITER         |
 +------------------------------------------+
 |                                          |
+|                                          |
 |                   .---.                  |
 |                  ( =O= )                 |
 |                   '---'                  |
 |              *DER MOND-KÖNIG*            |
+|                                          |
 |                                          |
 |  > DATENBLATT:                           |
 |  • Grösse: 143000 km Durchmesser         |
@@ -189,14 +219,20 @@ Material: Eis und Gestein
 |    Mond Ganymed ist sogar noch grösser   |
 |    als der Planet Merkur.                |
 |                                          |
+|                                          |
 +------------------------------------------+
 |  ENTDECKER-STATUS: [X] MONDE GEZÄHLT     |
 +------------------------------------------+
+
+
+
+
 
 +------------------------------------------+
 |  [ 🚀 ]  * PLANETARIAN-EXPERT *   [ 🚀 ] |
 |          Fachgebiet #06: SATURN          |
 +------------------------------------------+
+|                                          |
 |                                          |
 |                 _.._                     |
 |               .' .-' '.                  |
@@ -204,6 +240,7 @@ Material: Eis und Gestein
 |               '. '.-' .'                 |
 |                 ```                      |
 |           *DER SCHWIMM-RIESE*            |
+|                                          |
 |                                          |
 |  > DATENBLATT:                           |
 |  • Grösse: 120500 km Durchmesser         |
@@ -217,9 +254,14 @@ Material: Eis und Gestein
 |    seine Grösse: Er würde im Wasser      |
 |    schwimmen!                            |
 |                                          |
+|                                          |
 +------------------------------------------+
 |  ENTDECKER-STATUS: [X] BADETEST BESTANDEN|
 +------------------------------------------+
+
+
+
+
 
 
 +------------------------------------------+
@@ -227,10 +269,12 @@ Material: Eis und Gestein
 |          Fachgebiet #07: URANUS          |
 +------------------------------------------+
 |                                          |
+|                                          |
 |                   .---.                  |
 |                  (  \  )                 |
 |                   '---'                  |
 |             *DER KUGELBLITZ*             |
+|                                          |
 |                                          |
 |  > DATENBLATT:                           |
 |  • Grösse: 51100 km Durchmesser          |
@@ -244,19 +288,26 @@ Material: Eis und Gestein
 |    Sommer und Tag, danach 21 Jahre       |
 |    Winter und Nacht.                     |
 |                                          |
+|                                          |
 +------------------------------------------+
 |  ENTDECKER-STATUS: [X] SCHIEFLAGE GEPRÜFT|
 +------------------------------------------+
+
+
+
+
 
 +------------------------------------------+
 |  [ 🚀 ]  * PLANETARIAN-EXPERT *   [ 🚀 ] |
 |          Fachgebiet #08: NEPTUN          |
 +------------------------------------------+
 |                                          |
+|                                          |
 |                   .---.                  |
 |                  (  ~  )                 |
 |                   '---'                  |
 |              *DER STURM-KÖNIG*           |
+|                                          |
 |                                          |
 |  > DATENBLATT:                           |
 |  • Grösse: 49200 km Durchmesser          |
@@ -270,19 +321,26 @@ Material: Eis und Gestein
 |    2000 km/h) – viermal schneller als    |
 |    die schlimmsten Stürme der Erde!      |
 |                                          |
+|                                          |
 +------------------------------------------+
 |  ENTDECKER-STATUS: [X] WINDMESSUNG GUT   |
 +------------------------------------------+
+
+
+
+
 
 +------------------------------------------+
 |  [ 🚀 ]  * PLANETARIAN-EXPERT *   [ 🚀 ] |
 |          Fachgebiet #09: PLUTO           |
 +------------------------------------------+
 |                                          |
+|                                          |
 |                   .---.                  |
 |                  (  .  )                 |
 |                   '---'                  |
 |             *DER ZWERGPLANET*            |
+|                                          |
 |                                          |
 |  > DATENBLATT:                           |
 |  • Grösse: 2370 km Durchmesser           |
@@ -295,6 +353,7 @@ Material: Eis und Gestein
 |  • Eisig kalt (bis minus 230 Grad):      |
 |    Die Luft zum Atmen würde als Schnee   |
 |    auf den Boden gefrieren!              |
+|                                          |
 |                                          |
 +------------------------------------------+
 |  ENTDECKER-STATUS: [X] ENDE ERREICHT     |
